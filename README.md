@@ -31,7 +31,7 @@
    1. pkg update && pkg upgrade -y
    2. pkg install python git vim
    3. pip install requests
-   4. git https://github.com/Seffel2274/SlavesBotVK
+   4. git clone https://github.com/Seffel2274/SlavesBotVK
    5. cd SlavesBotVK
    6. vim SlavesBotVK.py
    7. Редактируем настройки и сохраняем файл
